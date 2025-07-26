@@ -1,3 +1,4 @@
 # IBM_Data_Analyst_Capstone_Project
 This repo has the pdf file for the IBM data analyst capstone project
 The dynamic link to view the report live: https://lookerstudio.google.com/reporting/431551e7-94f0-4d6e-9ab8-d1f0847d4fe8
+<iframe width="600" height="443" src="https://lookerstudio.google.com/embed/reporting/431551e7-94f0-4d6e-9ab8-d1f0847d4fe8/page/VyOSF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
